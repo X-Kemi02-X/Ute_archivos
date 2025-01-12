@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "detalles": {
+            "nombre": "Laptop",
+            "marca": "Dell",
+            "modelo": "XPS 13",
+            "precio": "1000",
+            "ram": "16GB"
+        }
+    },
+    {
+        "id": "2",
+        "detalles": {
+            "nombre": "Desktop",
+            "marca": "HP",
+            "modelo": "Pavilion",
+            "precio": "800",
+            "ram": "8GB"
+        }
+    },
+    {
+        "id": "3",
+        "detalles": {
+            "nombre": "Tablet",
+            "marca": "Apple",
+            "modelo": "iPad Pro",
+            "precio": "1200",
+            "ram": "6GB"
+        }
+    },
+    {
+        "id": "4",
+        "detalles": {
+            "nombre": "Monitor",
+            "marca": "Samsung",
+            "modelo": "Odyssey",
+            "precio": "500",
+            "ram": "N/A"
+        }
+    },
+    {
+        "id": "5",
+        "detalles": {
+            "nombre": "Teclado",
+            "marca": "Logitech",
+            "modelo": "MX Keys",
+            "precio": "100",
+            "ram": "N/A"
+        }
+    },
+    {
+        "id": "6",
+        "detalles": {
+            "nombre": "Mouse",
+            "marca": "Razer",
+            "modelo": "DeathAdder",
+            "precio": "50",
+            "ram": "N/A"
+        }
+    },
+    {
+        "id": "7",
+        "detalles": {
+            "nombre": "Impresora",
+            "marca": "Canon",
+            "modelo": "PIXMA",
+            "precio": "150",
+            "ram": "N/A"
+        }
+    },
+    {
+        "id": "8",
+        "detalles": {
+            "nombre": "Auriculares",
+            "marca": "Sony",
+            "modelo": "WH-1000XM4",
+            "precio": "300",
+            "ram": "N/A"
+        }
+    },
+    {
+        "id": "9",
+        "detalles": {
+            "nombre": "Altavoces",
+            "marca": "Bose",
+            "modelo": "Companion 2",
+            "precio": "200",
+            "ram": "N/A"
+        }
+    },
+    {
+        "id": "10",
+        "detalles": {
+            "nombre": "Webcam",
+            "marca": "Logitech",
+            "modelo": "C920",
+            "precio": "80",
+            "ram": "N/A"
+        }
+    }
+]
